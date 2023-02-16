@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -c $CFILI -o jake.o
+gcc -c $CFILI -o 1-compiler.o
